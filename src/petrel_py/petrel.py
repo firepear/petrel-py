@@ -2,8 +2,8 @@
 petrel_py is a Python port of the client of the Petrel networking library
 """
 
-import socket
-import struct
+#import socket
+#import struct
 
 # https://www.digitalocean.com/community/tutorials/python-string-encode-decode
 #
