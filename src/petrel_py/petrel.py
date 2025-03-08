@@ -1,3 +1,7 @@
+"""
+petrel_py is a Python port of the client of the Petrel networking library
+"""
+
 import socket
 import struct
 
