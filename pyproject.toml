@@ -1,5 +1,5 @@
 [project]
-name = "petrel-py"
+name = "petrel-pyclient"
 dynamic = ["version"]
 authors = [
   { name="Shawn Boyette", email="shawn@firepear.net" },
@@ -21,9 +21,9 @@ license = "MIT"
 license-files = ["LICEN[CS]E*"]
 
 [project.urls]
-Homepage = "https://github.com/firepear/petrel-py"
-Issues = "https://github.com/firepear/petrel-py/issues"
-Changelog = "https://github.com/firepear/petrel-py/blob/master/RELEASE_NOTES.md"
+Homepage = "https://github.com/firepear/petrel-pyclient"
+Issues = "https://github.com/firepear/petrel-pyclient/issues"
+Changelog = "https://github.com/firepear/petrel-pyclient/blob/master/RELEASE_NOTES.md"
 
 [build-system]
 requires = ["hatchling"]
