@@ -23,6 +23,7 @@ license-files = ["LICEN[CS]E*"]
 [project.urls]
 Homepage = "https://github.com/firepear/petrel-py"
 Issues = "https://github.com/firepear/petrel-py/issues"
+Changelog = "https://github.com/firepear/petrel-py/blob/master/RELEASE_NOTES.md"
 
 [build-system]
 requires = ["hatchling"]
