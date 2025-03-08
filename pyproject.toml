@@ -1,15 +1,21 @@
 [project]
 name = "petrel-py"
-version = "0.0.1"
+dynamic = ["version"]
 authors = [
   { name="Shawn Boyette", email="shawn@firepear.net" },
 ]
-description = "Petrel networking library client (for Python)"
+description = "Petrel networking client (Python)"
 readme = "README.md"
 requires-python = ">=3.8"
 classifiers = [
     "Programming Language :: Python :: 3",
     "Operating System :: OS Independent",
+    "Development Status :: 4 - Beta",
+    "Environment :: No Input/Output (Daemon)",
+    "Intended Audience :: Developers",
+    "Intended Audience :: System Administrators",
+    "Topic :: Internet",
+    "Topic :: System :: Networking",
 ]
 license = "MIT"
 license-files = ["LICEN[CS]E*"]
