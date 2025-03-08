@@ -1,5 +1,6 @@
-"""petrel_pyclient is a Python port of the client of the Petrel
-networking library
+"""petrel_pyclient is a Python port of the Petrel networking library's
+client.
+
 """
 
 #import socket
